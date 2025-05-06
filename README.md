@@ -11,7 +11,7 @@ Sou desenvolvedora Front-End 👩🏻‍💻
 const SobreMim = {
   nome: "Victória",
   area: "Programação",
-  idade: 26,
+  idade: 27,
 };
 
 const Skills = {
